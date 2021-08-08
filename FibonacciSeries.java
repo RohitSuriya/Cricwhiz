@@ -4,7 +4,6 @@ public class FibonacciSeries {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 		int limit=25,i=0,j=1,sum;
 		System.out.println("Fibonacci series of first 25 numbers:-");
 		System.out.println(i);
