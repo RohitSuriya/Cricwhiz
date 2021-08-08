@@ -8,7 +8,6 @@ public class ArmstrongNumber {
 		int temp,rem,sum=0;
 		temp=input;
 		while(input>0) {
-			
 			rem = input%10;
 			input = input/10;
 			sum = sum + (rem*rem*rem);
