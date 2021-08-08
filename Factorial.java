@@ -8,7 +8,6 @@ public class Factorial {
 		int num = 5, temp = 1;
 		
 		for (int i = 1; i<=num; i++) {
-			
 			temp = temp * i;
 		}
 		
