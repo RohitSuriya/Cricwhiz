@@ -1,0 +1,42 @@
+*Week2 - Day 2 : AUG 15-2021*
+Assignment:
+*SELENIUM AUGUST BATCH ASSIGNMENTS*
+
+
+*Assignment 1:*
+1) Complete all the 5 activities in Edit Page: http://leafground.com/pages/Edit.html
+2) Complete all the 4 activities in Button Page: http://leafground.com/pages/Button.html
+3) Complete all the 5 activities in HyperLink Page: http://leafground.com/pages/Link.html
+4) Complete all the 1,2 activities in Image Page: http://leafground.com/pages/Image.html
+5) Complete all the 5 activities in DropDown Page: http://leafground.com/pages/Dropdown.html
+6) Complete all 3 activities in Radio button Page: http://leafground.com/pages/radio.html
+7) Complete all 4 activities in CheckBox Page: http://leafground.com/pages/checkbox.html
+
+
+*Assignment 2:* *LeafTaps Testcase*
+ Complete all 4 assignments in this link
+https://github.com/TestLeafPages/SeleniumAssignments/tree/master/week2/day2.assignments
+
+http://leaftaps.com/opentaps/control/main
+Credential: demosalesmanager ; crmsfa
+
+*Assignment 3:*
+RedBus:
+1.Go to https://www.redbus.in/ in chrome
+2.Type Chennai in From textBox and ENTER
+3.Type Bengaluru in Destination textBox and ENTER 
+4.Choose any date in JULY
+5.Click Search Buses
+6.Close the popup using the X button at the right corner
+7.Print the number of search results
+8.Choose only Sleeper Bus
+9.Print the number of search results
+10.Deselect the sleeper Bus and select the AC bus alone
+11.Print the number of search results
+12.Choose also Non AC buses
+13.Print the number of search results
+
+*Assignment 4:*
+Java Programs:
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/optional/SumOfDigitsFromString.java
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/RemoveDuplicates.java
