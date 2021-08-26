@@ -1,0 +1,80 @@
+Selenium August Batch(23/08/2021)
+Week 3 day2 Assignments
+======================
+
+ABSTRACT CLASS
+Assignment 1:
+     Interface :HardWare
+     Methods   :hardwareResources()
+
+     Interface :Software
+     Methods   :softwareResources()
+
+     Class     :Desktop
+     Methods   :desktopModel()
+
+Description:
+create 2 Interface and archieve multiple inheritance.
+======================================================
+SAMPLE PROGRAM TO IMPLEMENT LIST :
+***********
+
+ NOTE: Java code is attached for your reference.
+ 
+1. Launch the URL https://www.ajio.com/
+2. In the search box, type as "bags" and press enter
+3. To the left  of the screen under " Gender" click the "Men"
+4. Under "Category" click "Fashion Bags"
+5. Print the count of the items Found. 
+6. Get the list of brand of the products displayed in the page and print the list.
+7. Get the list of names of the bags and print it
+
+===================================================================================
+Assignment 3: Sort using Collections.
+
+1.Declare a String array and add the Strings values as (Google,Microsoft,TestLeaf,Maverick)		
+
+2.Get the length of the array		
+
+3. sort the array			
+
+4. Iterate it in the reverse order
+
+5. print the array
+		
+6. Required Output: Wipro, HCL , CTS, Aspire Systems
+
+===================================================================================
+Assignment 4: RemoveDuplicates 
+
+Declare a String as PayPal India
+
+1.Convert it into a character array
+
+2.Declare a Set as charSet for Character
+
+3.Declare a Set as dupCharSet for duplicate Character
+
+4.Iterate character array and add it into charSet
+
+5.If the character is already in the charSet then, add it to the dupCharSet
+
+6.Check the dupCharSet elements and remove those in the charSet
+
+7.Iterate using charSet
+
+8.Check the iterator variable isn't equals to an empty space
+
+9.print it
+
+Assignment 5:(Collections-using List and Set)
+The pseudocode has steps to implement using arrays.
+But, now do the same set of programs using Collections. 
+
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/RemoveDuplicates.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/FindIntersection.java
+
+https://github.com/TestLeafPages/SeleniumAssignments/tree/master/week1/day2/classroom/arrays
+*Note -Remove the duplicate values and print the array
