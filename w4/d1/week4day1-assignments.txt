@@ -1,0 +1,39 @@
+Assignment 1:
+===============
+Window Handling:
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week3/day2/Assignments/MergeContact.java
+
+Assignment 2: ServiceNow - Frames
+----------------------------------
+
+ServiceNow- refer the attached document below for clarity
+
+Instance URL: https://dev113545.service-now.com/
+Username: admin
+Password: w6hnF2FRhwLC
+
+Step1: Load ServiceNow application URL given above
+Step2: Enter username as admin
+Step3: Enter password as w6hnF2FRhwLC
+Step4: Click Login
+Step5: Search “incident “ Filter Navigator
+Step6: Click “All”
+Step7: Click New button
+Step8: Select a value for Caller and Enter value for short_description
+Step9: Read the incident number and save it a variable
+Step10: Click on Submit button
+Step 11: Search the same incident number in the next search screen as below
+Step12: Verify the incident is created successful and take snapshot of the created incident.
+
+Assignment 3: (Frames)
+-------------
+ https://chercher.tech/practice/frames-example-selenium-webdriver
+
+Assignment 4:
+------------
+http://leafground.com/pages/frame.html
+1.Take the the screenshot of the click me button of first frame
+2.Find the number of frames
+  - find the Elements by tagname - iframe
+  - Store it in a list
+  - Get the size of the list. (This gives the count of the frames visible to the main page)
